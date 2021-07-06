@@ -1,0 +1,97 @@
+body{
+    font-family: 'Caladea', serif;
+    font-size: 100%;
+    margin: 0;
+    background-color: #f1e5e5;
+}
+
+h1 {
+    font-size: 1.5em;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+}
+
+.sigle_text{
+    color: burlywood;
+    text-shadow: 2px 2px gray;
+}
+
+
+.first_sec{
+    display: flex;
+    width: 100%;
+
+}
+
+.hungry_body{
+    padding: 10px 20px 10px;
+    margin:20px
+    width: 50%
+    }
+   
+
+
+
+.hungry_body_img{
+    width: 50%;
+    margin-top: 30px;
+    padding: 10px 20px 10px;
+   
+    
+}
+
+.Button_style{
+    text-decoration: none;
+    color:whitesmoke;
+    border: 2px solid black;
+    padding: 10px 10px 20px;
+    background-image: linear-gradient(grey,black);
+}
+
+
+
+#second_sec_bg{
+    background-image: url("images/7.png");
+  background-color: #f1e5e5;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+
+
+
+.second_sec{
+    display: flex;
+    background-size: 100%;
+    background-color: rgba(218, 203, 203, 0.645);
+    flex-direction: row;
+    align-content: center;
+    align-items: stretch;
+    padding: 2px;
+    
+      
+}
+
+.second_sec_blog{  
+    width: 50%;
+    padding: 10px 20px 10px;
+    margin:20px
+
+}
+.second_sec_img{
+    width: 50%;
+    margin: 10px;
+    padding: 10px 20px 10px;
+}
+
+
+
+
+
+footer{
+    margin-top: 50px;
+    text-align: center;
+  }
